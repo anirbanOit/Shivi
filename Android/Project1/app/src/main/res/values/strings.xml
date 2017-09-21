@@ -1,0 +1,13 @@
+<resources>
+    <string-array name="departments">
+        <item>Mobility</item>
+        <item>IOS</item>
+        <item>QA</item>
+        <item>Android</item>
+        <item>PHP</item>
+        <item>Dot Net</item>
+        <item>UI</item>
+        <item>Salesforce</item>
+    </string-array>
+    <string name="title_activity_main3">Main3Activity</string>
+</resources>
